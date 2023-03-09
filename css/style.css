@@ -1,0 +1,53 @@
+.container-1 {
+  display: flex;
+  width: 62%;
+}
+
+section > h2 {
+  text-align: center;
+}
+
+h3 {
+  font-size: 3.5em;
+}
+.img-1 {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  /* justify-content: space-between; */
+  width: 250px;
+  height: 330px;
+  background-image: url("../images/sp_score_thumb02.jpg");
+  background-position: center;
+  flex-grow: 0;
+  flex-shrink: 0;
+  margin-right: 1em;
+}
+.img-2 {
+  width: 250px;
+  height: 330px;
+  background-image: url("../images/sp_score_thumb03.jpg");
+  background-position: center;
+  flex-grow: 0;
+  flex-shrink: 0;
+  margin-right: 1em;
+}
+.img-3 {
+  width: 250px;
+  height: 330px;
+  background-image: url("../images/sp_score_thumb04.jpg");
+  background-position: center;
+  flex-grow: 0;
+  flex-shrink: 0;
+  margin-right: 1em;
+}
+.img-4 {
+  width: 250px;
+  height: 330px;
+  background-image: url("../images/sp_score_thumb01.jpg");
+  background-position: center;
+  flex-grow: 0;
+  flex-shrink: 0;
+  margin-right: 1em;
+}
